@@ -1,0 +1,15 @@
+//logic operators
+//not !
+// and &&
+// or ||
+
+var pub = { title: "bastao", like: 1000, comment: 200 };
+var top = {
+  title: "rosca",
+  like: 800,
+  comment: 100,
+};
+//if my pub has more like and comment, take the toppom
+if (pub.like > top.like && pub.comment > top.comment) {
+  console.log("now this is the top");
+}
