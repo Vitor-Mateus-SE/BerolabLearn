@@ -1,0 +1,19 @@
+{
+  "name": "onlybrothers",
+  "version": "1.0.0",
+  "description": "one application to help sig to found another sig",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitor-Mateus-SE/BerolabLearn.git"
+  },
+  "author": "vitor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vitor-Mateus-SE/BerolabLearn/issues"
+  },
+  "homepage": "https://github.com/Vitor-Mateus-SE/BerolabLearn#readme"
+}
