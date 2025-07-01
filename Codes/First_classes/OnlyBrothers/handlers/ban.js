@@ -13,7 +13,7 @@ var publication = {
   likes: 10,
   ban: 100,
 };*/
-
+var test = "test";
 function ban(publication, publication) {
   var banIsHigherThan40 = (40 / 100) * activeUsers;
 
